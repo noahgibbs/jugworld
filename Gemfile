@@ -1,4 +1,5 @@
 source :rubygems
 
-gem "juggernaut"
+gem "redis"
 gem "sinatra"
+gem "multi_json"
